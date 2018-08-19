@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: co.watly.vapor.dsl
+Bundle-SymbolicName: co.watly.vapor.dsl; singleton:=true
+Export-Package: co.watly,co.watly.parser.antlr.internal,co.watly.seria
+ lizer,co.watly.parser.antlr,co.watly.vapor.util,co.watly.services,co.
+ watly.validation,co.watly.vapor.impl,co.watly.vapor,co.watly.scoping,
+ co.watly.generator
+Bundle-Name: co.watly.vapor.dsl
+Bundle-Version: 1.0.0.201808180727
+Require-Bundle: org.eclipse.xtext,org.eclipse.xtext.xbase,org.eclipse.
+ equinox.common;bundle-version="3.5.0",org.eclipse.emf.ecore,org.eclip
+ se.xtext.xbase.lib;bundle-version="2.13.0",org.antlr.runtime,org.ecli
+ pse.xtext.util,org.eclipse.emf.common,org.eclipse.xtend.lib;bundle-ve
+ rsion="2.13.0"
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: Watly
+Import-Package: org.apache.log4j
+

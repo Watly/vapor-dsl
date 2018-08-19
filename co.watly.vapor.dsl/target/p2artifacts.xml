@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='co.watly.vapor.dsl' version='1.0.0.201808180727'>
+    <properties size='5'>
+      <property name='artifact.size' value='26874696'/>
+      <property name='download.size' value='26874696'/>
+      <property name='maven-groupId' value='co.watly'/>
+      <property name='maven-artifactId' value='co.watly.vapor.dsl'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+</artifacts>
